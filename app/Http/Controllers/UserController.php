@@ -57,7 +57,7 @@ class UserController extends Controller
             'nama_lengkap' => $request->username,
             'kelas' => 'X',
             'jurusan' => 'TR',
-            'jenis_kelamin' => 'L'
+            'jenis_kelamin' => 'l'
         ]);
 
         return redirect()->intended('/user')->with('successRegister', 'Success create account');

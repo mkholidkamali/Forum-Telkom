@@ -1,6 +1,6 @@
 <h1 align="center">Forum Telkom</h1>
 
-## Tentang Mini Blog
+## Tentang Forum Telkom
 Self Project ke-2, untuk melihat dan mengelola status user. Dibuat menggunakan framework Laravel dan Framework Bootstrap. Di project ini saya belajar dan menerapkan beberapa hal :
 
 1. Autentikasi
